@@ -1,0 +1,576 @@
+{
+  "suspicious_accounts": [
+    {
+      "account_id": "ACC_44594",
+      "suspicion_score": 18.48,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_001"
+    },
+    {
+      "account_id": "ACC_41351",
+      "suspicion_score": 15.4,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_018"
+    },
+    {
+      "account_id": "ACC_22543",
+      "suspicion_score": 15.24,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_014"
+    },
+    {
+      "account_id": "ACC_71227",
+      "suspicion_score": 15.11,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_007"
+    },
+    {
+      "account_id": "ACC_46428",
+      "suspicion_score": 14.08,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_027"
+    },
+    {
+      "account_id": "ACC_71843",
+      "suspicion_score": 14.05,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_034"
+    },
+    {
+      "account_id": "ACC_78600",
+      "suspicion_score": 13.86,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_028"
+    },
+    {
+      "account_id": "ACC_83420",
+      "suspicion_score": 13.2,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_008"
+    },
+    {
+      "account_id": "ACC_12368",
+      "suspicion_score": 12.34,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_033"
+    },
+    {
+      "account_id": "ACC_34869",
+      "suspicion_score": 12.34,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_033"
+    },
+    {
+      "account_id": "ACC_88944",
+      "suspicion_score": 12.34,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_033"
+    },
+    {
+      "account_id": "ACC_97945",
+      "suspicion_score": 12.34,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_033"
+    },
+    {
+      "account_id": "ACC_58777",
+      "suspicion_score": 12.34,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_033"
+    },
+    {
+      "account_id": "ACC_19217",
+      "suspicion_score": 12.17,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_018"
+    },
+    {
+      "account_id": "ACC_36367",
+      "suspicion_score": 12.17,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_018"
+    },
+    {
+      "account_id": "ACC_43035",
+      "suspicion_score": 12.17,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_018"
+    },
+    {
+      "account_id": "ACC_14131",
+      "suspicion_score": 12.17,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_018"
+    },
+    {
+      "account_id": "ACC_21542",
+      "suspicion_score": 12.12,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_004"
+    },
+    {
+      "account_id": "ACC_43521",
+      "suspicion_score": 12.12,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_004"
+    },
+    {
+      "account_id": "ACC_33577",
+      "suspicion_score": 12.12,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_004"
+    },
+    {
+      "account_id": "ACC_53812",
+      "suspicion_score": 12.12,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_004"
+    },
+    {
+      "account_id": "ACC_59342",
+      "suspicion_score": 12.12,
+      "detected_patterns": [
+        "shell_chain"
+      ],
+      "ring_id": "RING_H_004"
+    }
+  ],
+  "fraud_rings": [
+    {
+      "ring_id": "RING_H_033",
+      "member_accounts": [
+        "ACC_58777",
+        "ACC_12368",
+        "ACC_34869",
+        "ACC_88944",
+        "ACC_97945"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 82.3
+    },
+    {
+      "ring_id": "RING_H_018",
+      "member_accounts": [
+        "ACC_19217",
+        "ACC_36367",
+        "ACC_43035",
+        "ACC_41351",
+        "ACC_14131"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 81.13
+    },
+    {
+      "ring_id": "RING_H_004",
+      "member_accounts": [
+        "ACC_21542",
+        "ACC_43521",
+        "ACC_33577",
+        "ACC_53812",
+        "ACC_59342"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 80.82
+    },
+    {
+      "ring_id": "RING_H_005",
+      "member_accounts": [
+        "ACC_12424",
+        "ACC_74798",
+        "ACC_14815",
+        "ACC_94064"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.99
+    },
+    {
+      "ring_id": "RING_H_028",
+      "member_accounts": [
+        "ACC_13705",
+        "ACC_78600",
+        "ACC_41104",
+        "ACC_77550"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.47
+    },
+    {
+      "ring_id": "RING_H_034",
+      "member_accounts": [
+        "ACC_65254",
+        "ACC_71843",
+        "ACC_85571",
+        "ACC_43815"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.46
+    },
+    {
+      "ring_id": "RING_H_009",
+      "member_accounts": [
+        "ACC_56033",
+        "ACC_78600",
+        "ACC_41104",
+        "ACC_77550"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.45
+    },
+    {
+      "ring_id": "RING_H_022",
+      "member_accounts": [
+        "ACC_12853",
+        "ACC_88358",
+        "ACC_44989",
+        "ACC_40675"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.43
+    },
+    {
+      "ring_id": "RING_H_027",
+      "member_accounts": [
+        "ACC_83995",
+        "ACC_46428",
+        "ACC_86869",
+        "ACC_75171"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.42
+    },
+    {
+      "ring_id": "RING_H_006",
+      "member_accounts": [
+        "ACC_94248",
+        "ACC_71843",
+        "ACC_85571",
+        "ACC_43815"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.23
+    },
+    {
+      "ring_id": "RING_H_026",
+      "member_accounts": [
+        "ACC_28261",
+        "ACC_61624",
+        "ACC_47569",
+        "ACC_47628"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.12
+    },
+    {
+      "ring_id": "RING_H_032",
+      "member_accounts": [
+        "ACC_58777",
+        "ACC_12368",
+        "ACC_34869",
+        "ACC_88944"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 64.06
+    },
+    {
+      "ring_id": "RING_H_013",
+      "member_accounts": [
+        "ACC_57465",
+        "ACC_90245",
+        "ACC_15995",
+        "ACC_84065"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.99
+    },
+    {
+      "ring_id": "RING_H_035",
+      "member_accounts": [
+        "ACC_60194",
+        "ACC_84356",
+        "ACC_43904",
+        "ACC_33308"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.96
+    },
+    {
+      "ring_id": "RING_H_007",
+      "member_accounts": [
+        "ACC_64029",
+        "ACC_21091",
+        "ACC_17982",
+        "ACC_71227"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.94
+    },
+    {
+      "ring_id": "RING_H_014",
+      "member_accounts": [
+        "ACC_30247",
+        "ACC_22543",
+        "ACC_53218",
+        "ACC_71908"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.93
+    },
+    {
+      "ring_id": "RING_H_015",
+      "member_accounts": [
+        "ACC_34860",
+        "ACC_99347",
+        "ACC_39701",
+        "ACC_63203"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.86
+    },
+    {
+      "ring_id": "RING_H_012",
+      "member_accounts": [
+        "ACC_42602",
+        "ACC_49448",
+        "ACC_92558",
+        "ACC_19339"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.84
+    },
+    {
+      "ring_id": "RING_H_001",
+      "member_accounts": [
+        "ACC_21542",
+        "ACC_77058",
+        "ACC_44594",
+        "ACC_35310"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.82
+    },
+    {
+      "ring_id": "RING_H_025",
+      "member_accounts": [
+        "ACC_21891",
+        "ACC_91800",
+        "ACC_42196",
+        "ACC_72895"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.79
+    },
+    {
+      "ring_id": "RING_H_031",
+      "member_accounts": [
+        "ACC_38519",
+        "ACC_93732",
+        "ACC_35592",
+        "ACC_84959"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.66
+    },
+    {
+      "ring_id": "RING_H_016",
+      "member_accounts": [
+        "ACC_34860",
+        "ACC_99347",
+        "ACC_39701",
+        "ACC_92441"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.63
+    },
+    {
+      "ring_id": "RING_H_023",
+      "member_accounts": [
+        "ACC_30278",
+        "ACC_36445",
+        "ACC_40418",
+        "ACC_25652"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.39
+    },
+    {
+      "ring_id": "RING_H_030",
+      "member_accounts": [
+        "ACC_95305",
+        "ACC_79973",
+        "ACC_28277",
+        "ACC_32110"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.33
+    },
+    {
+      "ring_id": "RING_H_021",
+      "member_accounts": [
+        "ACC_14674",
+        "ACC_52245",
+        "ACC_69669",
+        "ACC_42744"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.25
+    },
+    {
+      "ring_id": "RING_H_010",
+      "member_accounts": [
+        "ACC_12368",
+        "ACC_34869",
+        "ACC_88944",
+        "ACC_97945"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.2
+    },
+    {
+      "ring_id": "RING_H_002",
+      "member_accounts": [
+        "ACC_21542",
+        "ACC_77058",
+        "ACC_44594",
+        "ACC_59763"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 63.11
+    },
+    {
+      "ring_id": "RING_H_017",
+      "member_accounts": [
+        "ACC_19217",
+        "ACC_36367",
+        "ACC_43035",
+        "ACC_41351"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 62.99
+    },
+    {
+      "ring_id": "RING_H_008",
+      "member_accounts": [
+        "ACC_64029",
+        "ACC_21091",
+        "ACC_17982",
+        "ACC_83420"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 62.86
+    },
+    {
+      "ring_id": "RING_H_019",
+      "member_accounts": [
+        "ACC_36367",
+        "ACC_43035",
+        "ACC_41351",
+        "ACC_14131"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 62.59
+    },
+    {
+      "ring_id": "RING_H_020",
+      "member_accounts": [
+        "ACC_63007",
+        "ACC_42652",
+        "ACC_78493",
+        "ACC_91172"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 62.54
+    },
+    {
+      "ring_id": "RING_H_011",
+      "member_accounts": [
+        "ACC_43521",
+        "ACC_33577",
+        "ACC_53812",
+        "ACC_59342"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 62.44
+    },
+    {
+      "ring_id": "RING_H_029",
+      "member_accounts": [
+        "ACC_95305",
+        "ACC_79973",
+        "ACC_28277",
+        "ACC_17845"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 62.28
+    },
+    {
+      "ring_id": "RING_H_024",
+      "member_accounts": [
+        "ACC_80440",
+        "ACC_83191",
+        "ACC_61108",
+        "ACC_23178"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 62.13
+    },
+    {
+      "ring_id": "RING_H_003",
+      "member_accounts": [
+        "ACC_21542",
+        "ACC_43521",
+        "ACC_33577",
+        "ACC_53812"
+      ],
+      "pattern_type": "shell_chain",
+      "risk_score": 61.82
+    }
+  ],
+  "summary": {
+    "total_accounts_analyzed": 1490,
+    "suspicious_accounts_flagged": 22,
+    "fraud_rings_detected": 35,
+    "processing_time_seconds": 1.45
+  }
+}

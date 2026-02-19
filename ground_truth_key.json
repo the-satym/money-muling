@@ -1,0 +1,728 @@
+{
+    "fraud_rings": [
+        {
+            "ring_id": "RING_CYCLE_1",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_73394",
+                "ACC_64305",
+                "ACC_97881",
+                "ACC_52133",
+                "ACC_26552"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_2",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_45468",
+                "ACC_89339",
+                "ACC_40408",
+                "ACC_21216",
+                "ACC_81686"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_3",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_89831",
+                "ACC_99751",
+                "ACC_20992",
+                "ACC_19695",
+                "ACC_72076"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_4",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_40608",
+                "ACC_37319",
+                "ACC_54637",
+                "ACC_65227"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_5",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_10621",
+                "ACC_90848",
+                "ACC_92931"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_6",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_99479",
+                "ACC_51176",
+                "ACC_66988",
+                "ACC_23302"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_7",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_28164",
+                "ACC_22829",
+                "ACC_85200",
+                "ACC_19335"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_8",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_20113",
+                "ACC_67871",
+                "ACC_94478"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_9",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_66468",
+                "ACC_44722",
+                "ACC_53921",
+                "ACC_31774",
+                "ACC_90186"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_10",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_76140",
+                "ACC_82136",
+                "ACC_74995",
+                "ACC_28441"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_11",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_54997",
+                "ACC_37533",
+                "ACC_94857",
+                "ACC_74432",
+                "ACC_93033"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_12",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_47800",
+                "ACC_84994",
+                "ACC_38858"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_13",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_99048",
+                "ACC_81876",
+                "ACC_57534",
+                "ACC_11254"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_14",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_14966",
+                "ACC_57782",
+                "ACC_19411"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_15",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_16456",
+                "ACC_37417",
+                "ACC_21745",
+                "ACC_48810"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_16",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_20007",
+                "ACC_81378",
+                "ACC_65389",
+                "ACC_67271",
+                "ACC_88755"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_17",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_54522",
+                "ACC_87589",
+                "ACC_61817",
+                "ACC_46252",
+                "ACC_93819"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_18",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_33564",
+                "ACC_63645",
+                "ACC_14354",
+                "ACC_86335",
+                "ACC_33203"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_19",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_52180",
+                "ACC_43767",
+                "ACC_29557",
+                "ACC_80127",
+                "ACC_60996"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_20",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_76958",
+                "ACC_88760",
+                "ACC_54393",
+                "ACC_38467"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_21",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_88988",
+                "ACC_71801",
+                "ACC_79348",
+                "ACC_38507",
+                "ACC_41202"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_22",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_65080",
+                "ACC_68518",
+                "ACC_86756",
+                "ACC_90540",
+                "ACC_90992"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_23",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_48236",
+                "ACC_35265",
+                "ACC_97944"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_24",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_32111",
+                "ACC_79129",
+                "ACC_96333"
+            ]
+        },
+        {
+            "ring_id": "RING_CYCLE_25",
+            "pattern": "cycle",
+            "nodes": [
+                "ACC_60734",
+                "ACC_74315",
+                "ACC_14805",
+                "ACC_79140",
+                "ACC_46796"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_1",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_28121",
+            "receiver_nodes": [
+                "ACC_89988",
+                "ACC_57062",
+                "ACC_77785",
+                "ACC_31661",
+                "ACC_68959",
+                "ACC_44928",
+                "ACC_45110",
+                "ACC_76056",
+                "ACC_15500",
+                "ACC_74648",
+                "ACC_94069",
+                "ACC_83733",
+                "ACC_82831",
+                "ACC_11072",
+                "ACC_29378",
+                "ACC_83103",
+                "ACC_45924",
+                "ACC_18570"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_2",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_98188",
+            "receiver_nodes": [
+                "ACC_47795",
+                "ACC_62641",
+                "ACC_41213",
+                "ACC_96524",
+                "ACC_61472",
+                "ACC_35477",
+                "ACC_13565",
+                "ACC_16096",
+                "ACC_49597",
+                "ACC_61804",
+                "ACC_92713",
+                "ACC_17795",
+                "ACC_18143",
+                "ACC_68320",
+                "ACC_76040",
+                "ACC_37052",
+                "ACC_39295",
+                "ACC_84288",
+                "ACC_23469",
+                "ACC_57447",
+                "ACC_50632",
+                "ACC_39037",
+                "ACC_36112",
+                "ACC_30548"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_3",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_43258",
+            "receiver_nodes": [
+                "ACC_63706",
+                "ACC_69127",
+                "ACC_97317",
+                "ACC_68740",
+                "ACC_48875",
+                "ACC_20417",
+                "ACC_93791",
+                "ACC_15272",
+                "ACC_84704",
+                "ACC_90719",
+                "ACC_56791",
+                "ACC_29707",
+                "ACC_62080",
+                "ACC_81430",
+                "ACC_69582",
+                "ACC_59923",
+                "ACC_27894"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_4",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_94132",
+            "receiver_nodes": [
+                "ACC_21605",
+                "ACC_29192",
+                "ACC_11301",
+                "ACC_66097",
+                "ACC_93080",
+                "ACC_16248",
+                "ACC_40189",
+                "ACC_81555",
+                "ACC_69100",
+                "ACC_22047",
+                "ACC_41166",
+                "ACC_73757",
+                "ACC_44251",
+                "ACC_17667",
+                "ACC_69328",
+                "ACC_84957",
+                "ACC_37393",
+                "ACC_37933",
+                "ACC_45183",
+                "ACC_10089"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_5",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_14995",
+            "receiver_nodes": [
+                "ACC_78021",
+                "ACC_44519",
+                "ACC_36822",
+                "ACC_65855",
+                "ACC_33454",
+                "ACC_67752",
+                "ACC_61218",
+                "ACC_47973",
+                "ACC_43310",
+                "ACC_57237",
+                "ACC_32309",
+                "ACC_86867",
+                "ACC_97659",
+                "ACC_18087",
+                "ACC_47151",
+                "ACC_27333",
+                "ACC_26548",
+                "ACC_59420",
+                "ACC_13755",
+                "ACC_21798",
+                "ACC_96943",
+                "ACC_69222"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_6",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_58725",
+            "receiver_nodes": [
+                "ACC_68811",
+                "ACC_31892",
+                "ACC_25221",
+                "ACC_52721",
+                "ACC_53016",
+                "ACC_31523",
+                "ACC_35614",
+                "ACC_14629",
+                "ACC_70451",
+                "ACC_72664",
+                "ACC_63220",
+                "ACC_42857",
+                "ACC_73117",
+                "ACC_59116",
+                "ACC_12496",
+                "ACC_24642",
+                "ACC_90088",
+                "ACC_45195",
+                "ACC_43753",
+                "ACC_89531"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_7",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_90248",
+            "receiver_nodes": [
+                "ACC_45558",
+                "ACC_73983",
+                "ACC_80593",
+                "ACC_96339",
+                "ACC_90420",
+                "ACC_82762",
+                "ACC_66489",
+                "ACC_83359",
+                "ACC_14778",
+                "ACC_65517",
+                "ACC_27655",
+                "ACC_62469",
+                "ACC_12599",
+                "ACC_67600",
+                "ACC_60240",
+                "ACC_70644",
+                "ACC_69611",
+                "ACC_13741",
+                "ACC_30685",
+                "ACC_18072",
+                "ACC_38196",
+                "ACC_41979",
+                "ACC_11743",
+                "ACC_54522"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_8",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_86510",
+            "receiver_nodes": [
+                "ACC_83334",
+                "ACC_91520",
+                "ACC_37304",
+                "ACC_99741",
+                "ACC_35402",
+                "ACC_96067",
+                "ACC_41604",
+                "ACC_97618",
+                "ACC_17409",
+                "ACC_89878",
+                "ACC_53286",
+                "ACC_59000",
+                "ACC_94115",
+                "ACC_19303",
+                "ACC_67635",
+                "ACC_95794",
+                "ACC_73885",
+                "ACC_11717",
+                "ACC_57084",
+                "ACC_43203",
+                "ACC_10962",
+                "ACC_39382",
+                "ACC_46228"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_9",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_51554",
+            "receiver_nodes": [
+                "ACC_69605",
+                "ACC_46444",
+                "ACC_95198",
+                "ACC_65220",
+                "ACC_18007",
+                "ACC_13294",
+                "ACC_71435",
+                "ACC_53171",
+                "ACC_85128",
+                "ACC_19440",
+                "ACC_42921",
+                "ACC_25335",
+                "ACC_11541",
+                "ACC_16261",
+                "ACC_27710",
+                "ACC_36287",
+                "ACC_29884",
+                "ACC_14790",
+                "ACC_29465",
+                "ACC_83221",
+                "ACC_14356",
+                "ACC_55434"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_10",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_42229",
+            "receiver_nodes": [
+                "ACC_48627",
+                "ACC_30964",
+                "ACC_63939",
+                "ACC_38889",
+                "ACC_93168",
+                "ACC_21017",
+                "ACC_39869",
+                "ACC_26750",
+                "ACC_17660",
+                "ACC_47295",
+                "ACC_45602",
+                "ACC_95982",
+                "ACC_35905",
+                "ACC_56879",
+                "ACC_56792"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_11",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_79616",
+            "receiver_nodes": [
+                "ACC_82981",
+                "ACC_10416",
+                "ACC_10635",
+                "ACC_65274",
+                "ACC_12912",
+                "ACC_86595",
+                "ACC_28873",
+                "ACC_69731",
+                "ACC_50857",
+                "ACC_20253",
+                "ACC_85292",
+                "ACC_17621",
+                "ACC_61867",
+                "ACC_68429",
+                "ACC_25131",
+                "ACC_78829"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_12",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_38725",
+            "receiver_nodes": [
+                "ACC_86819",
+                "ACC_90921",
+                "ACC_12919",
+                "ACC_97251",
+                "ACC_30954",
+                "ACC_23013",
+                "ACC_74902",
+                "ACC_17817",
+                "ACC_40366",
+                "ACC_74592",
+                "ACC_94792",
+                "ACC_36672",
+                "ACC_94116",
+                "ACC_87683",
+                "ACC_22046",
+                "ACC_49688",
+                "ACC_57629",
+                "ACC_10452",
+                "ACC_16388",
+                "ACC_60020",
+                "ACC_64814",
+                "ACC_72753",
+                "ACC_76614",
+                "ACC_32823",
+                "ACC_63799"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_13",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_92398",
+            "receiver_nodes": [
+                "ACC_75980",
+                "ACC_50911",
+                "ACC_33019",
+                "ACC_57204",
+                "ACC_56630",
+                "ACC_52405",
+                "ACC_12491",
+                "ACC_63571",
+                "ACC_24545",
+                "ACC_55021",
+                "ACC_12516",
+                "ACC_71335",
+                "ACC_11197",
+                "ACC_25383",
+                "ACC_46347",
+                "ACC_18992",
+                "ACC_23051",
+                "ACC_52046"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_14",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_96862",
+            "receiver_nodes": [
+                "ACC_82730",
+                "ACC_42101",
+                "ACC_68763",
+                "ACC_16524",
+                "ACC_85975",
+                "ACC_34866",
+                "ACC_55726",
+                "ACC_42263",
+                "ACC_18128",
+                "ACC_23749",
+                "ACC_67424",
+                "ACC_17017",
+                "ACC_63991",
+                "ACC_67950",
+                "ACC_16323",
+                "ACC_82479",
+                "ACC_80439",
+                "ACC_98110",
+                "ACC_30153",
+                "ACC_88134",
+                "ACC_68215",
+                "ACC_23027",
+                "ACC_57140",
+                "ACC_44299"
+            ]
+        },
+        {
+            "ring_id": "RING_FANOUT_15",
+            "pattern": "fan_out",
+            "distributor_node": "ACC_58034",
+            "receiver_nodes": [
+                "ACC_78026",
+                "ACC_75451",
+                "ACC_22759",
+                "ACC_25136",
+                "ACC_33039",
+                "ACC_22112",
+                "ACC_61741",
+                "ACC_44524",
+                "ACC_74453",
+                "ACC_82403",
+                "ACC_84077",
+                "ACC_17762",
+                "ACC_69169",
+                "ACC_90590",
+                "ACC_62671",
+                "ACC_19380",
+                "ACC_97050",
+                "ACC_27874",
+                "ACC_94352"
+            ]
+        }
+    ],
+    "false_positives_to_ignore": {
+        "payroll_accounts": [
+            "ACC_20950",
+            "ACC_71432",
+            "ACC_12424",
+            "ACC_30000",
+            "ACC_82909",
+            "ACC_50960",
+            "ACC_81739",
+            "ACC_64029",
+            "ACC_81628",
+            "ACC_83995",
+            "ACC_38179",
+            "ACC_14249",
+            "ACC_28290",
+            "ACC_30247",
+            "ACC_92099",
+            "ACC_90600",
+            "ACC_96932",
+            "ACC_21891",
+            "ACC_66307",
+            "ACC_51019"
+        ],
+        "merchant_accounts": [
+            "ACC_71770",
+            "ACC_90396",
+            "ACC_55205",
+            "ACC_95282",
+            "ACC_31803",
+            "ACC_79680",
+            "ACC_17958",
+            "ACC_72421",
+            "ACC_38648",
+            "ACC_80145",
+            "ACC_85445",
+            "ACC_11970",
+            "ACC_98966",
+            "ACC_26772",
+            "ACC_83420",
+            "ACC_39346",
+            "ACC_83206",
+            "ACC_10033",
+            "ACC_17845",
+            "ACC_21366",
+            "ACC_32321",
+            "ACC_12174",
+            "ACC_94677",
+            "ACC_94421",
+            "ACC_41966",
+            "ACC_71781",
+            "ACC_35140",
+            "ACC_56401",
+            "ACC_42369",
+            "ACC_79305"
+        ]
+    }
+}
